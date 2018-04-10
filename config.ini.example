@@ -1,0 +1,13 @@
+[default]
+webhook_url = https://hooks.slack.com/services/XXXXXXXXX/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+username = bot
+icon_emoji = :sheep:
+channel = @username
+per_line = 0
+
+[hoge]
+webhook_url = https://hooks.slack.com/services/XXXXXXXXX/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX
+username = alien
+icon_emoji = :alien:
+channel = #hoge
+per_line = 1
